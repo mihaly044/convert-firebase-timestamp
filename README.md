@@ -1,5 +1,5 @@
 # Disclaimer
-This is a fork of the original [convert-firebase-timestamp](https://github.com/peterkracik/convert-firebase-timestamp) library written by [https://github.com/peterkracik](@peterkracik).  
+This is a fork of the original [convert-firebase-timestamp](https://github.com/peterkracik/convert-firebase-timestamp) library written by [@peterkracik](https://github.com/peterkracik).  
 Everything has been created by the original contributor(s) except commit [4a395490](https://github.com/mihaly044/convert-firebase-timestamp/commit/4a39549066068cd182241e2a3738fdacae3e48ce) that fixes a minor bug.
 
 # Convert firebase timestamps
