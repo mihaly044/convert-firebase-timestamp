@@ -15,7 +15,7 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/peterkracik/convert-firebase-timestamp"
+    "url": "https://github.com/mihaly044/convert-firebase-timestamp/"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
