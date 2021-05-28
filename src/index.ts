@@ -84,6 +84,10 @@ export function convertTimestamp<T extends object>(value: T): T | Date {
  * @param value
  */
 function isTimestamp(value: any): boolean {
+	if(value == null) {
+		return false;
+	}
+	
 	if (value.hasOwnProperty('seconds') &&
 		value.hasOwnProperty('nanoseconds') &&
 		typeof value.toDate === 'function'
